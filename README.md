@@ -1,2 +1,2 @@
 # test-repo
-Auther - Hasnain ahmad
+Auther - Hasnain ahmad (compuer science)
